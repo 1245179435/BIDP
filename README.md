@@ -18,14 +18,18 @@ For MAE, F measure, E score and S score, we use the code provided by this r
 
 # 6.Requirements
 python==3.8
+
 torch==2.0
 
 # 7.Dataset
 For all datasets, they should be organized in below's fashion:
-(
+...
+python
+
+...
 |__dataset_name
    |__Images: xxx.jpg ...
    |__Masks : xxx.png ...
 
-)
+
 
