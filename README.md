@@ -25,7 +25,9 @@ torch==2.0
 For all datasets, they should be organized in below's fashion:
 
 `|__dataset_name
+
    |__Images: xxx.jpg ...
+   
    |__Masks : xxx.png ...`
 
 
