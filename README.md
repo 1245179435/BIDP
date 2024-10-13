@@ -29,7 +29,17 @@ For all datasets, they should be organized in below's fashion:
    |__Images: xxx.jpg ...
    
    |__Masks : xxx.png ...
-
+```
+download dataset
+[ECSSD](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
+[HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency.html)
+[DUTS-TE](http://saliencydetection.net/duts/)
+[DUT-OMRON](http://saliencydetection.net/dut-omron/)
+[PASCAL-S](http://cbi.gatech.edu/salobj/)
+# 8.Train 
+```python
+pyton main.py
+```
 
 
 
