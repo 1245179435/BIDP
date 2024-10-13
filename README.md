@@ -21,6 +21,10 @@ python==3.8
 
 torch==2.0
 
+Torchvision
+
+Numpy
+
 # 7.Dataset
 For all datasets, they should be organized in below's fashion:
 ```python
