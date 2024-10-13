@@ -1,3 +1,5 @@
+![脑图](https://github.com/user-attachments/assets/2e54a632-85d4-4074-9fa3-2cbd98afecde)
+
 # 1.BIDP 
 This is BIDP: Brain-Inspired Dual-Process CNN-Transformer for Salient Object Detection official  code
 # 2.architecture
