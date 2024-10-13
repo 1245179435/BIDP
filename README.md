@@ -1,4 +1,4 @@
-# 1.BIDP
+# 1.BIDP 
 This is BIDP: Brain-Inspired Dual-Process CNN-Transformer for Salient Object Detection official  code
 # 2.architecture
 ![最终CNN(1) - 副本](https://github.com/user-attachments/assets/51f66fe0-18e2-469f-9d62-9df32e4d800b)
@@ -8,7 +8,14 @@ This is BIDP: Brain-Inspired Dual-Process CNN-Transformer for Salient Object Det
 For PR curve and F curve, we use the code provided by this repo: [BASNet, CVPR-2019]
 For MAE, F measure, E score and S score, we use the code provided by this repo: [F3Net, AAAI-2020]
 [code](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)
-# 5.Requirements
+
+# 5.Quantitative comparisons
+![table1](https://github.com/user-attachments/assets/dc66b8e5-f836-46a2-9ef6-c38afa61d8de)
+![table2](https://github.com/user-attachments/assets/781b6f7c-1ce5-4121-91be-cb575352c02a)
+![PR曲线图](https://github.com/user-attachments/assets/2841a6e9-e453-4762-a39d-c1b74141ce60)
+
+# 6.Requirements
 python==3.8
 torch==2.0
+
 
