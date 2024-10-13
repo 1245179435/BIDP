@@ -24,11 +24,11 @@ torch==2.0
 # 7.Dataset
 For all datasets, they should be organized in below's fashion:
 
-`|__dataset_name
+`|__dataset_name`
 
-   |__Images: xxx.jpg ...
+  ` |__Images: xxx.jpg ...`
    
-   |__Masks : xxx.png ...`
+   `|__Masks : xxx.png ...`
 
 
 
