@@ -1,9 +1,11 @@
-![脑图](https://github.com/user-attachments/assets/2e54a632-85d4-4074-9fa3-2cbd98afecde)
+![hum](https://github.com/user-attachments/assets/fe203a1b-8051-4b6d-9dab-2a4c90f9b6f2)
+
 
 # 1.BIDP 
-This is BIDP: Brain-Inspired Dual-Process CNN-Transformer for Salient Object Detection official  code
+This is DPVVNet: Dual-Process VGG-VMMamba Network for Salient Object Detectionl  code
 # 2.architecture
-![最终CNN(1) - 副本](https://github.com/user-attachments/assets/51f66fe0-18e2-469f-9d62-9df32e4d800b)
+![DP-VVNe](https://github.com/user-attachments/assets/da0cc6b6-d2e5-433a-82f7-e2c829a1ed55)
+
 # 3.result
 ![十个方法对比](https://github.com/user-attachments/assets/3d88258d-1c2e-4b8f-af8b-e6b8a8e695a5)
 # 4.Evaluation
