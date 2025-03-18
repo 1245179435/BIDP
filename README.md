@@ -14,8 +14,8 @@ For MAE, F measure, E score and S score, we use the code provided by this r
 [code](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)
 
 # 5.Quantitative comparisons
-![table1](https://github.com/user-attachments/assets/dc66b8e5-f836-46a2-9ef6-c38afa61d8de)
-![table2](https://github.com/user-attachments/assets/781b6f7c-1ce5-4121-91be-cb575352c02a)
+![69781274a939cab817dff3f76b7152d](https://github.com/user-attachments/assets/560d6f80-a012-4114-8796-8e61ef89f713)
+![0e454eb83867c2d88888fef72bd14fd](https://github.com/user-attachments/assets/4800bf07-6df6-40f4-940a-395ee6e933fa)
 ![PR曲线图](https://github.com/user-attachments/assets/2841a6e9-e453-4762-a39d-c1b74141ce60)
 
 # 6.Requirements
