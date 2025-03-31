@@ -1,10 +1,12 @@
-![hum](https://github.com/user-attachments/assets/fe203a1b-8051-4b6d-9dab-2a4c90f9b6f2)
 
 
-# 1.BIDP 
+![脑图](https://github.com/user-attachments/assets/e1f87201-b3a6-4daa-8667-f33a676e2305)
+
+# 1.DPVVNet 
 This is DPVVNet: Dual-Process VGG-VMMamba Network for Salient Object Detectionl  code
 # 2.architecture
-![DP-VVNe](https://github.com/user-attachments/assets/da0cc6b6-d2e5-433a-82f7-e2c829a1ed55)
+
+![总结构图1](https://github.com/user-attachments/assets/d2a4bf8d-47f4-4817-b01b-99f37e045085)
 
 # 3.result
 ![十个方法对比](https://github.com/user-attachments/assets/3d88258d-1c2e-4b8f-af8b-e6b8a8e695a5)
