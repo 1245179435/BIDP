@@ -2,7 +2,7 @@
 
 ![脑图](https://github.com/user-attachments/assets/e1f87201-b3a6-4daa-8667-f33a676e2305)
 
-# 1.DPVVNet 
+# 1.BIDP 
 This is BIDP: Brain-Inspired Dual-Process CNN-Transformer for
 Salient Object Detectionl  code
 # 2.architecture
