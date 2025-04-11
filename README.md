@@ -3,7 +3,8 @@
 ![脑图](https://github.com/user-attachments/assets/e1f87201-b3a6-4daa-8667-f33a676e2305)
 
 # 1.DPVVNet 
-This is DPVVNet: Dual-Process VGG-VMMamba Network for Salient Object Detectionl  code
+This is BIDP: Brain-Inspired Dual-Process CNN-Transformer for
+Salient Object Detectionl  code
 # 2.architecture
 
 ![figurez](https://github.com/user-attachments/assets/e980faf2-16bd-429e-a0dd-0cb4aa0d9152)
