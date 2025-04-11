@@ -6,7 +6,8 @@
 This is DPVVNet: Dual-Process VGG-VMMamba Network for Salient Object Detectionl  code
 # 2.architecture
 
-![总结构图1](https://github.com/user-attachments/assets/d2a4bf8d-47f4-4817-b01b-99f37e045085)
+![figurez](https://github.com/user-attachments/assets/e980faf2-16bd-429e-a0dd-0cb4aa0d9152)
+
 
 # 3.result
 ![十个方法对比](https://github.com/user-attachments/assets/3d88258d-1c2e-4b8f-af8b-e6b8a8e695a5)
@@ -16,9 +17,10 @@ For MAE, F measure, E score and S score, we use the code provided by this r
 [code](https://github.com/xuebinqin/Binary-Segmentation-Evaluation-Tool)
 
 # 5.Quantitative comparisons
-![69781274a939cab817dff3f76b7152d](https://github.com/user-attachments/assets/560d6f80-a012-4114-8796-8e61ef89f713)
-![0e454eb83867c2d88888fef72bd14fd](https://github.com/user-attachments/assets/4800bf07-6df6-40f4-940a-395ee6e933fa)
-![PR曲线图](https://github.com/user-attachments/assets/2841a6e9-e453-4762-a39d-c1b74141ce60)
+![1744348456426](https://github.com/user-attachments/assets/004f0a31-3c46-4f4c-bd91-aa6541655c7f)
+
+<img width="775" alt="PR" src="https://github.com/user-attachments/assets/012f36aa-d2f1-42b5-be68-30c2e7fe354d" />
+
 
 # 6.Requirements
 python==3.8
